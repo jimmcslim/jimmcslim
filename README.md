@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimmcslim
+- 👋 Hi, I’m @jimmcslim .. he/jim
 - 👀 I’m interested in fintech.
 - 🌱 I’m currently learning Kubernetes.
 - 💞️ I’m looking to collaborate on fintech start-ups.
