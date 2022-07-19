@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Webster .. he/him
+- 👋 Hi, I’m James Webster (he/him)
 - 🗺 I live in [Brisbane, Australia](https://en.wikipedia.org/wiki/Brisbane)
 - 👀 I’m interested in fintech.
 - 🌱 I’m currently learning Kubernetes.
